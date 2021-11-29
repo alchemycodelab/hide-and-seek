@@ -7,6 +7,7 @@ const shedContainer = document.getElementById('shed-container');
 const treeContainer = document.getElementById('tree-container');
 const boulderContainer = document.getElementById('boulder-container');
 
+// small change
 const totalEl = document.getElementById('total');
 const winsEl = document.getElementById('wins');
 
